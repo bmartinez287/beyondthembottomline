@@ -37,7 +37,7 @@ a:focus {
 }
 
 #about a {
-    color: rgba(52, 52, 52, .7);
+    color: #b17a2bcc;
 }
 
 #about a:hover,
@@ -66,11 +66,11 @@ p {
 
 .bg-dark {
     color: #fff;
-    background-color: #222;
+    background-color: #b17a2bcc;
 }
 
 .text-faded {
-    color: rgba(255,255,255,.7);
+    color: rgba(255,255,255,.9);
 }
 
 section {
